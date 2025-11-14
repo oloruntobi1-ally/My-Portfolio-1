@@ -5,10 +5,10 @@ import ProjectDetails from "./pages/ProjectDetails";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import MainLayout from "./layouts/MainLayout";
-import useScrollToTop from "./hooks/useScrollToTop";
+// import useScrollToTop from "./hooks/useScrollToTop";
 
 const App = () => {
-  useScrollToTop();
+  // useScrollToTop();
 
   return (
     <MainLayout>
