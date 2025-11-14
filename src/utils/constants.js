@@ -1,5 +1,5 @@
-export const SITE_NAME = "Cyberflex Portfolio";
-export const SITE_URL = "https://cyberflex-portfolio.vercel.app";
+export const SITE_NAME = "Oloruntobi Portfolio";
+export const SITE_URL = "https://password-strength-checker-theta-ashen.vercel.app/";
 export const EMAIL = "cyberflex.dev@gmail.com";
 
 export const SOCIALS = {
